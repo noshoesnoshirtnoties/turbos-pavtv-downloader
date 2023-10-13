@@ -2,6 +2,9 @@
 ## Description
 as the title says, this is not mine and there is no src avail
 
+## Old Pavlov VR Website - PavTV VOD Finder
+http://tv.pavlov-vr.com/find/any?dummy=0&comp=true
+
 ## Pavlov TV Controls
 General:
 ```
